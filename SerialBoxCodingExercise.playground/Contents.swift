@@ -85,6 +85,8 @@ let backendResponse = [
  
 */
 
+let foo = "bar";
+
 /*
  STEP 3.
  UNCOMMENT THIS BLOCK OF CODE WHEN READY TO RUN YOUR CODED SOLUTION;
